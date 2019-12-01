@@ -4,9 +4,9 @@ Image Segmentation using Deeplab v3 for CS256 Group E
 ## Summary
 <p>Experiminting with Quantization of Tensorflow Models on various datasets with the DeepLab v3 Decoder architecture and MobileNet v2 Encoder architectureusing using a variety of techniques including 
 <ul>
-  <li>Quantization aware training <li>
-  <li>Quantization aware training with delay <li>
-  <li>Post training Quantization <li>
+  <li>Quantization aware training </li>
+  <li>Quantization aware training with delay </li>
+  <li>Post training Quantization </li>
 </ul>
 </p>
 

@@ -31,6 +31,7 @@ pip install all the following required packages.
   <li>conda</li>
 </ul>
 <p>Note: For a ready to use envirenment, a deeplearning ami on an EC2 instance would come with all the required packages needed to run this repo immediatly. </p>
+
 ## Usage
 <ul>
   <li>clone the repo</li>

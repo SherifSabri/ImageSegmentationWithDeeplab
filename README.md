@@ -17,7 +17,9 @@ Image Segmentation using Deeplab v3 for CS256 Group E
   booktitle={ECCV},
   year={2018}
 }
+
 ## Installation
+pip install all the following required packages.
 
 ## Requirement
 <ul>
@@ -26,6 +28,7 @@ Image Segmentation using Deeplab v3 for CS256 Group E
   <li>Python 3.6</li>
   <li>Numpy</li>
   <li>matplotlib</li>
+  <li>conda</li>
 </ul>
 
 ## Usage

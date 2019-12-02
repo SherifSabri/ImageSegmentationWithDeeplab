@@ -45,8 +45,10 @@ pip install all the following required packages.
 
 ## Results
 <p>Image Segmentation Inference on a quantized model</p>
-![Image Segmentation Inference on a quantized model]
-(https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/segmentation_results.png)
+![Image Segmentation Inference on a quantized model (https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/segmentation_results.png)
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 ### Group Members
 <ul>

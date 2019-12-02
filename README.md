@@ -44,7 +44,7 @@ pip install all the following required packages.
 </ul>
 
 ## Results
-![Image Segmentation Inference on a quantized model] (https://i.postimg.cc/7PgkjyBQ/segmentation-results.png "Image Segmentation Inference on a quantized model")
+[![segmentation-results.png](https://i.postimg.cc/7PgkjyBQ/segmentation-results.png)](https://postimg.cc/c6428PGQ)
 
 ### Group Members
 <ul>

@@ -27,6 +27,7 @@ pip install all the following required packages.
   <li>Jupyter Notebook</li>
   <li>Python 3.6</li>
   <li>Numpy</li>
+  <li>Pillow</li>
   <li>matplotlib</li>
   <li>conda</li>
 </ul>

@@ -50,7 +50,7 @@ pip install all the following required packages.
 
 <p>This page (code, report and presentation) is the group "E" submission for Final project for CS256: Selected Topics in Artificial Intelligence, Section 2. Leb by Instructor: Mashhour Solh, Ph.D.
 </br>
-#### The group members are:
+The group members are:
 <ul>
   <li>Sherif Elsaid</li>
   <li>Inhee Park</li>
@@ -59,7 +59,8 @@ pip install all the following required packages.
   <li>Anand Vishwakarma</li>
 </ul>
 The code maybe used for educational and commercial use under no warranties. 
-</br>For questions on this project and code please reach out to: "contact@sherifsabri.dev"
+</br>For questions on this project and code please reach out to: 
+</br>"contact@sherifsabri.dev"
 
 ### Credits
 <p>This project was conducted with free credits provided by AWS educate team.</p>

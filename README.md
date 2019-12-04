@@ -46,14 +46,11 @@ pip install all the following required packages.
 ## Results
 [![segmentation-results.png](https://i.postimg.cc/7PgkjyBQ/segmentation-results.png)](https://postimg.cc/c6428PGQ)
 
-### Group Members
-
-
 ### About:
 
 <p>This page (code, report and presentation) is the group "E" submission for Final project for CS256: Selected Topics in Artificial Intelligence, Section 2. Leb by Instructor: Mashhour Solh, Ph.D.
 </br>
-The group members are:
+#### The group members are:
 <ul>
   <li>Sherif Elsaid</li>
   <li>Inhee Park</li>

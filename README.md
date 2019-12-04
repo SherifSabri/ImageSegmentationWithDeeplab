@@ -1,5 +1,5 @@
 # Image Segmentation With Deeplab
-Image Segmentation using Deeplab v3 for CS256 Group E
+Image Segmentation using Deeplab v3+
 
 ## Summary
 <p>Experiminting with Quantization of Tensorflow Models on various datasets with the DeepLab v3 Decoder architecture and MobileNet v2 Encoder architectureusing using a variety of techniques including 
@@ -47,14 +47,22 @@ pip install all the following required packages.
 [![segmentation-results.png](https://i.postimg.cc/7PgkjyBQ/segmentation-results.png)](https://postimg.cc/c6428PGQ)
 
 ### Group Members
+
+
+### About:
+
+<p>This page (code, report and presentation) is the group "E" submission for Final project for CS256: Selected Topics in Artificial Intelligence, Section 2. Leb by Instructor: Mashhour Solh, Ph.D.
+</br>
+The group members are:
 <ul>
-<li>Sherif Elsaid</li>
-<li>Inhee Park</li>
-<li>Sagar Shahi</li>
-<li>Sriram Priyatham Siram</li>
-<li>Anand Vishwakarma</li>
+  <li>Sherif Elsaid</li>
+  <li>Inhee Park</li>
+  <li>Sagar Shahi</li>
+  <li>Sriram Priyatham Siram</li>
+  <li>Anand Vishwakarma</li>
 </ul>
+The code maybe used for educational and commercial use under no warranties. 
+</br>For questions on this project and code please reach out to: "contact@sherifsabri.dev"
 
 ### Credits
-<p>Thanks for Amazon AWS for providing us with free educational vouchers,<br>
-and thanks for Prof. Mashhour Solh for supervising this project.</p>
+<p>This project was conducted with free credits provided by AWS educate team.</p>

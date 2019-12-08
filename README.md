@@ -35,6 +35,15 @@ pip install all the following required packages.
 <p>Note: For a ready to use envirenment, a deeplearning ami on an EC2 instance would come with all the required packages needed to run this repo immediatly. </p>
 
 ## Usage
+<tbody><tr>
+  <td>
+    <a target="_blank" href=""https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/CS256_GroupE_PostQuantization.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">Quantization Run in Colab</a>
+  </td> 
+  <td>
+    <a href="https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/CS256_GroupE_inference_deeplab.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">Inference Run in Colab</a>
+  </td>
+</tr></tbody>
+
 <ul>
   <li>clone the repo</li>
   <li>navigate to ImageSegmentationWithDeeplab (command: cd ImageSegmentationWithDeeplab)</li>  

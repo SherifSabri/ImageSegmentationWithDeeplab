@@ -35,8 +35,13 @@ pip install all the following required packages.
 <p>Note: For a ready to use envirenment, a deeplearning ami on an EC2 instance would come with all the required packages needed to run this repo immediatly. </p>
 
 ## Usage on Colab
-[![quantize.png|200px](https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/quantize.png)]
-[![inference.png|200px](https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/inference.png)]
+<ul>
+ <li>Fine-tuning and Quantization/li>
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/quantize.png" height="50" width="100">
+ <li>Inference/li>
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/inference.png" height="50" width="100">
+</ul>
+
 ## Usage on AWS
 <ul>
   <li>clone the repo</li>

@@ -37,9 +37,9 @@ pip install all the following required packages.
 ## Usage on Colab
 <ul>
   <li>Quantization</li>
-![quantize.png](quantize.png)]
+![quantize.png](https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/quantize.png)
   <li>Inference</li>
-![inference.png](inference.png)
+![inference.png](https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/inference.png)
 </ul>
 
 ## Usage on AWS

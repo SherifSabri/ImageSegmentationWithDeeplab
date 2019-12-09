@@ -36,10 +36,10 @@ pip install all the following required packages.
 
 ## Usage on Colab
 <ul>
- <li>Fine-tuning and Quantization/li>
- <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/quantize.png" height="50" width="100">
- <li>Inference/li>
- <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/inference.png" height="50" width="100">
+ <li>Fine-tuning and Quantization</li>
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/quantize.png" width="50%">
+ <li>Inference</li>
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/inference.png" width="50%">
 </ul>
 
 ## Usage on AWS

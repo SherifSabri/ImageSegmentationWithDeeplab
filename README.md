@@ -6,7 +6,8 @@ Image Segmentation using Deeplab v3+
 <ul>
   <li>Quantization aware training </li>
   <li>Quantization aware training with delay </li>
-  <li>Post training Quantization </li>
+  <li><a href="https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/CS256_GroupE_PostQuantization.ipynb">Post training Quantization</a></li>
+  <li> <a href="https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/CS256_GroupE_inference_deeplab.ipynb">Quantized Inference/Evalulation </a></li>
 </ul>
 </p>
 
@@ -33,7 +34,8 @@ pip install all the following required packages.
 </ul>
 <p>Note: For a ready to use envirenment, a deeplearning ami on an EC2 instance would come with all the required packages needed to run this repo immediatly. </p>
 
-## Usage
+
+## Usage on AWS
 <ul>
   <li>clone the repo</li>
   <li>navigate to ImageSegmentationWithDeeplab (command: cd ImageSegmentationWithDeeplab)</li>  

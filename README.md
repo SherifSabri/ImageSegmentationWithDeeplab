@@ -11,6 +11,15 @@ Image Segmentation using Deeplab v3+
 </ul>
 </p>
 
+## Presentation Slide
+<ul>
+  <li><a href="
+https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/docs/Final%20Report.pdf">
+     Lighter \& Faster Semantic Segmentation by Post-Training Quantization \& Quantization-Aware Training
+    </a>
+    </li>
+ </ul>
+
 ## DeepLab: Deep Labelling for Semantic Image Segmentation
 @inproceedings{deeplabv3plus2018,
   title={Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation},

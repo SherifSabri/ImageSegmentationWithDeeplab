@@ -37,9 +37,9 @@ pip install all the following required packages.
 ## Usage on Colab
 <ul>
   <li>Quantization</li>
-[![quantize.png](quantize.png)]
+![quantize.png](quantize.png)]
   <li>Inference</li>
-[![inference.png](inference.png)]
+![inference.png](inference.png)
 </ul>
 
 ## Usage on AWS

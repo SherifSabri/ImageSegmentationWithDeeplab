@@ -2,7 +2,7 @@
 Image Segmentation using Deeplab v3+
 
 ## Summary
-<p>Experiminting with Quantization of Tensorflow Models on various datasets with the DeepLab v3 Decoder architecture and MobileNet v2 Encoder architectureusing using a variety of techniques including 
+<p>Experimenting with Quantization of Tensorflow Models on various datasets with the DeepLab v3 Decoder architecture and MobileNet v2 Encoder architectureusing using a variety of techniques including 
 <ul>
   <li>Quantization aware training </li>
   <li>Quantization aware training with delay </li>
@@ -13,7 +13,7 @@ Image Segmentation using Deeplab v3+
 
 ## Presentation Slide
 <ul>
-  <li><a href="https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/docs/Final%20Report.pdf">
+  <li><a href="https://github.com/SherifSabri/ImageSegmentationWithDeeplab/blob/master/docs/CS256_GroupE_Final_Presentation.pdf">
      Lighter, Faster Semantic Segmentation by Post-Training Quantization and Quantization-Aware Training</a>
   </li>
 </ul>

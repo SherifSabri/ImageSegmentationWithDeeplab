@@ -44,9 +44,9 @@ pip install all the following required packages.
 ## Usage on Colab
 <ul>
  <li>Fine-tuning and Quantization</li>
- <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/quantize.png" width="70%">
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/quantize.png" width="80%">
  <li>Inference</li>
- <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/inference.png" width="70%">
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/inference.png" width="80%">
 </ul>
 
 ## Usage on AWS
@@ -61,12 +61,14 @@ pip install all the following required packages.
 
 ## Results
 <ul>
- <li>32-bit Segmentation</li>
+ <li>FLOAT32 Segmentation</li>
  <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/mobileNetv2-f32.png" width="80%">
- <li>8-bit Quantized Segmentation (no fine-tuning) </li>
+ <li>Post-Quantization UINT8 Segmentation (no fine-tuning) </li>
  <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/postQuant-8bit-noFT.png" width="80%">
- <li>8-bit Quantized Segmentation (10K-iteration fine-tuning) </li>
+ <li>Post-Quantization UINT8  Segmentation (10K-iteration fine-tuning) </li>
  <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/postQuant-8bit-10kFT.png" width="80%">
+ <li>Quantization-Aware-Training UNIT8 Segmentation </li>
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/QAT-8bit.png" width="80%">
 </ul>
 
 ### About:

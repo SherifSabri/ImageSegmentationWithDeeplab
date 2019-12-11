@@ -62,12 +62,13 @@ pip install all the following required packages.
 ## Results
 <ul>
  <li>32-bit Segmentation</li>
- <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/mobileNetv2-f32.png" width="70%">
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/mobileNetv2-f32.png" width="80%">
  <li>8-bit Quantized Segmentation (no fine-tuning) </li>
- <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/postQuant-8bit-noFT.png" width="70%">
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/postQuant-8bit-noFT.png" width="80%">
  <li>8-bit Quantized Segmentation (10K-iteration fine-tuning) </li>
- <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/postQuant-8bit-10kFT.png" width="70%">
+ <img src="https://raw.github.com/SherifSabri/ImageSegmentationWithDeeplab/master/postQuant-8bit-10kFT.png" width="80%">
 </ul>
+
 ### About:
 
 <p>This page (code, report and presentation) is the group "E" submission for Final project for CS256: Selected Topics in Artificial Intelligence, Section 2. Leb by Instructor: Mashhour Solh, Ph.D.
